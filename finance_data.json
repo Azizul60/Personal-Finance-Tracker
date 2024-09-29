@@ -1,0 +1,34 @@
+{
+    "income": [
+        {
+            "amount": 30000.0,
+            "description": "salary",
+            "date": "2024-10-01"
+        },
+        {
+            "amount": 30000.0,
+            "description": "salary",
+            "date": "2024-09-01"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 3500.0,
+            "description": "rent",
+            "category": "bills",
+            "date": "2024-10-05"
+        },
+        {
+            "amount": 3200.0,
+            "description": "rent",
+            "category": "bills",
+            "date": "2024-09-05"
+        },
+        {
+            "amount": 4000.0,
+            "description": "food",
+            "category": "food",
+            "date": "2024-09-15"
+        }
+    ]
+}
